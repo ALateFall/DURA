@@ -1,0 +1,10 @@
+PyYAML>=6.0
+numpy>=1.24
+Pillow>=10.0
+matplotlib>=3.8
+scikit-learn>=1.4
+tqdm>=4.66
+torch>=2.1
+transformers>=4.40
+tensorboard>=2.14
+
